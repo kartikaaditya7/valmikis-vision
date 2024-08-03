@@ -1,2 +1,2 @@
 # valmikis-vision
-This Valmiki's Vision uses a ResNet-18 model to recognize characters from the Ramayana through image classification. The model is implemented using PyTorch and takes advantage of transfer learning to efficiently train on a custom dataset.
+Valmiki's Vision is a deep learning project that utilizes a ResNet-18 model to identify characters from the Ramayana through image classification. Implemented with PyTorch, this project leverages transfer learning to efficiently train on a custom dataset of Ramayana characters.
